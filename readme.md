@@ -81,7 +81,7 @@ git clone https://github.com/yourusername/india-canteen.git
 
 Frontend Developer & UI Designer
 
-📧 Email: your-email@example.com
+📧 Email: your-anuragyadavanupam@gmail.com
 
 🌐 GitHub: https://github.com/AnupamYadavAnurag
 
